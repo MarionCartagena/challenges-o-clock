@@ -1,0 +1,63 @@
+
+.whiteBackground {
+    background-color: white;
+}
+body {
+    background-color:rgb(187, 225, 228);
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;   
+    background-color:#48C9B0;  
+    padding: 40px;
+}
+.surlign {
+    background-color: #FEF9E7;
+}
+.bigLetter {
+    font-size: 80px
+}
+
+h2 {
+    color:#008B8B;
+    text-align: center
+}
+h3 {
+    text-align: center;
+    font-style: italic; 
+}
+h4 {
+    text-align: center;
+}
+.yellowMark {
+    background-color: yellow;
+    font-weight: bold;
+
+}
+.upLine {
+   text-decoration-line: overline;
+   font-weight: italic;
+}
+.final {
+    background-color:#48C9B0;
+    text-align: center;   
+}
+a:hover {
+    background-color:cornflowerblue;
+}
+
+img {
+    display: block;
+    width:auto;
+    margin-left:auto;
+    margin-right:auto;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    
+     
+
+}
