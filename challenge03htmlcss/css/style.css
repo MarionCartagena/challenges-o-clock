@@ -1,0 +1,113 @@
+
+
+body {
+    background-color: #D3D3D3 ;
+    font-family: sans-serif;
+}
+img {
+    display: block;
+    margin: 30px auto;
+}
+#container {
+
+    background-color: white;
+    text-align: center;
+    border: 3px solid black;
+    margin: 20px 400px;
+    padding: 20px;
+    
+    
+}
+
+#main {
+background-color:#EEEEEE;
+width: 760px;
+margin: 50px auto;
+padding: 20px 20px;
+text-align: justify;
+}
+
+#footer {
+    background-color: #EEEEEE;
+    width: 1000px;
+    margin: 15px auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+#italic {
+
+   font-style: italic; 
+   margin-top: 40px;
+   font-size: 12px;
+   border-top: 1px solid black;
+   padding:15px;
+}
+
+h1 {
+
+ font-size: 50px;
+ font-weight: bold;
+ font-family: 'Oswald';
+ border-bottom: solid #931414;
+ border-top: solid #931414;
+ padding: 15px;
+
+
+}
+#h2 {
+
+    font-size: 20px;
+    background-color: black;
+   color: white; 
+  padding: 5px;
+  font-family: 'Oswald';
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+margin: 30px;
+font-family: 'Oswald';
+}
+.logo2 {
+display: block;
+margin: auto;
+width: 80px;
+height: 70px;
+margin-bottom: 30px;
+}
+
+h4 {
+
+    text-align: center;
+    color: #931414;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px;
+    font-family: 'Oswald';
+
+}
+.hero {
+    font-weight: bold;
+}
+p {
+    margin: 15px 0;
+ }
+ #link {
+color: #931414;
+background-color: #EEEEEE;
+border: black thin;
+border-radius: 15px; 
+text-align: center;
+padding: 10px;  
+margin: 0.2px;
+text-transform: uppercase;
+
+ }
+ #link:hover {
+  background-color: #931414;
+  color: white;
+}
